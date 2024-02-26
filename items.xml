@@ -1,0 +1,27 @@
+<items>
+    <item>
+        <name>Excalibur, the Legendary Sword</name>
+        <category>Weapon</category>
+        <value>150</value>
+    </item>
+    <item>
+        <name>Dragonhide Armor</name>
+        <category>Armor</category>
+        <value>200</value>
+    </item>
+    <item>
+        <name>Phoenix Feather Wand</name>
+        <category>Weapon</category>
+        <value>120</value>
+    </item>
+    <item>
+        <name>Amulet of Vitality</name>
+        <category>Accessory</category>
+        <value>80</value>
+    </item>
+    <item>
+        <name>Ring of Invisibility</name>
+        <category>Accessory</category>
+        <value>100</value>
+    </item>
+</items>
